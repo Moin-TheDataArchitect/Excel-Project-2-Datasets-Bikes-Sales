@@ -30,11 +30,14 @@ This table divides customers into different age groups. It helps us know the age
 This table tells us how many customers we have in each area. It helps us see where our bikes are selling well and where we might need to focus more on selling.
 
 Preview of Pivot tables:
-
+![Image](https://github.com/user-attachments/assets/a0de99ef-c4f2-4b2f-a4c9-694c5184274c)
 
 
 ➡ Conclusion:
 Looking at all this information, we can see a clearer picture of who our customers are and how they behave. This helps us make better decisions about how to sell bikes and where to focus our efforts. By understanding our customers' income, age, location, and how far they travel, we can make sure our products and marketing messages are right for them.
 
 Final Preview Data Output
+
+![Image](https://github.com/user-attachments/assets/5e8e0a72-5d13-45ca-a031-34d13be61257)
+
 
